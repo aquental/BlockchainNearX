@@ -9,5 +9,9 @@ NearX Blockchain course _Feb 26_
 
 #### [NearX](https://linktr.ee/nearxinnovation)
 
+---
 ### Videos
+
 ##### [Class 1](https://www.youtube.com/watch?v=yModQgXgCdI)
+
+##### [Class 2](https://www.youtube.com/watch?v=p2MnBva1g58)

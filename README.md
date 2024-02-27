@@ -12,6 +12,6 @@ NearX Blockchain course _Feb 26_
 ---
 ### Videos
 
-##### [Class 1](https://www.youtube.com/watch?v=yModQgXgCdI)
+##### [Class 1 - Feb 26](https://www.youtube.com/watch?v=yModQgXgCdI)
 
-##### [Class 2](https://www.youtube.com/watch?v=p2MnBva1g58)
+##### [Class 2 - Feb 27](https://www.youtube.com/watch?v=p2MnBva1g58)

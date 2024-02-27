@@ -3,6 +3,8 @@ NearX Blockchain course _Feb 26_
 
 #### [Bootcamp](https://nearx.com.br/bootcamp)
 
+#### {GitHub](https://github.com/nrxschool/bootcamp-optimism)
+
 #### [Discord](https://discord.gg/nearx)
 
 #### [NearX](https://linktr.ee/nearxinnovation)

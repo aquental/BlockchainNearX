@@ -16,22 +16,62 @@ NearX Blockchain course _Feb 26_
 
 #### BootCamp Optimism x NearX
 
-> Aula 1 - Blockchain Básico
+<details>
+<summary>First week</summary>
 
-##### [Class 1 - Feb 26](https://www.youtube.com/watch?v=yModQgXgCdI)
+> Aula 1 - Blockchain Básico - [Class 1 - Feb 26](https://www.youtube.com/watch?v=yModQgXgCdI)
 
-> Aula 2 - Blockchain Básico / Javascript Básico
+> Aula 2 - Blockchain Básico / Javascript Básico - [Class 2 - Feb 27](https://www.youtube.com/watch?v=p2MnBva1g58)
 
-##### [Class 2 - Feb 27](https://www.youtube.com/watch?v=p2MnBva1g58)
+> Aula 3 - Blockchain Básico / Criptografia - [Class 3 - Feb 28](https://www.youtube.com/watch?v=xoAwwe6uODk)
 
-> Aula 3 - Blockchain Básico / Criptografia
+> Aula 4 - Blockchain Básico / Bibliotecas Cripto - [Class 4 - Feb 29](https://www.youtube.com/watch?v=WH_GPLiPJ78)
 
-##### [Class 3 - Feb 28](https://www.youtube.com/watch?v=xoAwwe6uODk)
+> Aula 5 - Blockchain Básico / Solidity Básico - [Class 5 - Mar 1](https://www.youtube.com/watch?v=PCqhzFVqjAU)
 
-> Aula 4 - Blockchain Básico / Bibliotecas Cripto
+</details>
 
-##### [Class 4 - Feb 29](https://www.youtube.com/watch?v=WH_GPLiPJ78)
+<details>
+<summary>Second week</summary>
 
-> Aula 5 - Blockchain Básico / Solidity Básico
+> Class 6 - Mar 4
 
-##### [Class 5 - Mar 1](https://www.youtube.com/watch?v=PCqhzFVqjAU)
+> Class 7 - Mar 5
+
+> Class 8 - Mar 6
+
+> Class 9 - Mar 7
+
+> Class 10 - Mar 8
+
+</details>
+
+<details>
+<summary>Third week</summary>
+
+> Class 11 - Mar 11
+
+> Class 12 - Mar 12
+
+> Class 13 - Mar 13
+
+> Class 14 - Mar 14
+
+> Class 15 - Mar 15
+
+</details>
+
+<details>
+<summary>Fourth week</summary>
+
+> Class 16 - Mar 18
+
+> Class 17 - Mar 19
+
+> Class 18 - Mar 20
+
+> Class 19 - Mar 21
+
+> Class 20 - Mar 22
+
+</details>

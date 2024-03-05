@@ -34,9 +34,9 @@ NearX Blockchain course _Feb 26_
 <details>
 <summary>Second week</summary>
 
-> Class 6 - Mar 4
+> AUal 6 - Foundry / EVM [Class 6 - Mar 4](https://www.youtube.com/watch?v=8PcPPJb443I)
 
-> Class 7 - Mar 5
+> Aula 7 - ERC20 [Class 7 - Mar 5](https://www.youtube.com/watch?v=6diK9i6eNqw)
 
 > Class 8 - Mar 6
 

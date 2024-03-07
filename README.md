@@ -40,7 +40,7 @@ NearX Blockchain course _Feb 26_
 
 > Aula 8 - ERC721 [Class 8 - Mar 6](https://www.youtube.com/watch?v=5GqoVF4jicE)
 
-> Class 9 - Mar 7
+> Aula 9 - Coding [Class 9 - Mar 7](https://www.youtube.com/watch?v=o3G0YTyilSo)
 
 > Class 10 - Mar 8
 

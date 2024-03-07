@@ -40,24 +40,24 @@ NearX Blockchain course _Feb 26_
 
 > Aula 8 - ERC721 [Class 8 - Mar 6](https://www.youtube.com/watch?v=5GqoVF4jicE)
 
-> Aula 9 - Coding [Class 9 - Mar 7](https://www.youtube.com/watch?v=o3G0YTyilSo)
+> Aula 9 - Segurança 101 [Class 9 - Mar 7](https://www.youtube.com/watch?v=M2MWY9JlXY0)
 
-> Class 10 - Mar 8
+> Aula 10 - L1/L2 Optimism [Class 10 - Mar 8](https://www.youtube.com/watch?v=Y6hVhsP8Nc0)
 
 </details>
 
 <details>
 <summary>Third week</summary>
 
-> Class 11 - Mar 11
+> Aula 11 - Definição de Projeto [Class 11 - Mar 11](https://www.youtube.com/watch?v=5IdE67XXP_o)
 
-> Class 12 - Mar 12
+> AUla 12 - Criação do Roadmap [Class 12 - Mar 12](https://www.youtube.com/watch?v=DyQoP3yewos)
 
-> Class 13 - Mar 13
+> Aula 13 - Coding [Class 13 - Mar 13](https://www.youtube.com/watch?v=o3G0YTyilSo)
 
-> Class 14 - Mar 14
+> Aula 14 - Coding [Class 14 - Mar 14](https://www.youtube.com/watch?v=iXgDydY_-M0)
 
-> Class 15 - Mar 15
+> Aula 15 - Pitch [Class 15 - Mar 15](https://www.youtube.com/watch?v=LVzrqSJvCog)
 
 </details>
 

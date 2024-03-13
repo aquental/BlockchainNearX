@@ -64,14 +64,14 @@ NearX Blockchain course _Feb 26_
 <details>
 <summary>Fourth week</summary>
 
-> Class 16 - Mar 18
+> [Class 16 - Mar 18]()
 
-> Class 17 - Mar 19
+> [Class 17 - Mar 19]()
 
-> Class 18 - Mar 20
+> [Class 18 - Mar 20]()
 
-> Class 19 - Mar 21
+> [Class 19 - Mar 21]()
 
-> Class 20 - Mar 22
+> [Class 20 - Mar 22]()
 
 </details>

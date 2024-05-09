@@ -75,3 +75,6 @@ NearX Blockchain course _Feb 26_
 > [Class 20 - Mar 22]()
 
 </details>
+
+[Solidity course](https://www.youtube.com/watch?v=MSqUh6Nef5k)
+

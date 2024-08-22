@@ -1,6 +1,6 @@
 # Blockchain Bootcamp NearX
 
-NearX Blockchain course _Feb 26_
+NearX Blockchain course _Feb 26_ 2024
 
 #### [Bootcamp](https://nearx.com.br/bootcamp)
 
